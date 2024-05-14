@@ -1,1 +1,7 @@
-Hi i am very gald now beacause here am going to tech you 30 days python challenges. THis challenges from basic to advanced. so lets get start now to learn make your future birght with us...
+Hi i am very gladd t share with you my frist project thats i make when i learn pyhton. 
+this project is student manegment. 
+key features of this project.
+  1. add student
+  2. remove student
+  3. search student by roll no
+  4. 
